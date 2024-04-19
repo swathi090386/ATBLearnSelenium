@@ -3,7 +3,7 @@
 <suite name="All Test Suite">
     <test verbose="2" preserve-order="true" name="E/Javaprojects/SwathiTraining/ATBLearnSelenium">
         <classes>
-            <class name="com.testingacedemy.Selenium.Selenium18">
+            <class name="com.testingacedemy.Test.TestVWOLogin">
             </class>
         </classes>
     </test>
